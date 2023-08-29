@@ -1,6 +1,7 @@
 * {
     margin: 0;
     padding: 0;
+    scroll-behavior: auto;
 }
 
 .header {
@@ -41,4 +42,36 @@ body {
 .div1 h3 {
     margin-top: 20px;
     font-size: 22px;
+}
+.div2 h3 {
+    margin-top: 20px;
+    font-size: 22px;
+    font-style: oblique;
+}
+
+.div2 {
+    display: flex;
+    max-width: 100%;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.div2 img {
+    height: 350px;
+    width: auto;
+}
+
+.tt {
+    align-items: center;
+    justify-content: center;
+    max-width: 100%;
+}
+
+.div2 div {
+    margin: 10px;
+}
+
+h3 {
+    margin: 10px;
+    font: 15px;
 }
