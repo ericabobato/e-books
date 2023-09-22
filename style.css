@@ -96,3 +96,112 @@ h3 {
     font-weight: 900;
     margin-left: 40px;
 }
+
+.f2 {
+    display: flex;
+    padding: 3px;
+}
+
+.f2 p {
+    color: white;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+
+}
+
+.f3 {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.f2 {
+    justify-content: center;
+}
+
+.f2 p {
+    margin-top: 5px;
+}
+
+
+.meu-botao {
+    background-color: #3a3a3a;
+    color: #fff;
+  
+    border-radius: 5px; 
+    padding: 10px 20px;
+
+  
+    transition: background-color 0.3s;
+}
+.meu-botao:hover {
+    background-color: #000000;
+}
+
+
+.oto {
+    display: flex;
+    max-width: max-content;
+    height: 100px;
+    flex-wrap: wrap;
+}
+
+.oto img {
+    margin: 5px;
+    width: 200px;
+    justify-content: center;
+}
+
+.oto {
+    max-width: 100%;
+    display: inline-block;
+    align-items: center;
+    margin: 20px;
+}
+
+.oto img {
+    align-items: center;
+}
+
+.sip2 h6 {
+    align-items: center;
+    justify-content: center;
+    margin: 10px;
+}
+
+.sip2 {
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.sip {
+    color: white;
+    align-items: center;
+    text-align: center;
+}
+
+.tip {
+    margin: 20px;
+}
+
+.sip p {
+    margin-left: 10px;
+    font-size: 20px;
+}
+
+.oto {
+    margin-left: 10px;
+    align-items: center;
+    justify-content: center;
+}
+
+.oto img {
+    justify-content: center;
+}
+
+a {
+    text-decoration: none;
+}
+
+.compra {
+    margin-left: 13px;
+}
